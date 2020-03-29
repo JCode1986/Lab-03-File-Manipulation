@@ -24,6 +24,6 @@ Select File -> Open -> Project/Solution
 
 ![Image 1](assets/start.png)
 
-![Image 1](assets/add.png)
-
 ![Image 1](assets/view.png)
+
+![Image 1](assets/add.png)
