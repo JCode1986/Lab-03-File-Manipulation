@@ -4,3 +4,6 @@ knife
 pillow
 toys
 ice cream
+pens
+medicine
+soda

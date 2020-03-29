@@ -21,3 +21,9 @@ Select File -> Open -> Project/Solution
 * Then select and open Lab3-File-Manipulation.sln
 
 ### Visuals
+
+![Image 1](assets/start.png)
+
+![Image 1](assets/add.png)
+
+![Image 1](assets/view.png)
